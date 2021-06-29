@@ -5,7 +5,7 @@
 //include the printer header file...
 #include "printer.h"
 
-#define total 5 // size of items to print
+#define total 5 // total documents
 
 int main(int argc, char** argv){
     //create a new printer doc...
