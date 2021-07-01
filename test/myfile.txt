@@ -1,1 +1,1 @@
-using Microsoft.Fiji.EdgeZoneRP.printer
+using Microsoft.Fiji.EdgeZoneRP.printer;
