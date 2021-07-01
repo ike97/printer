@@ -5,7 +5,7 @@
 //include the printer header file...
 #include "printer.h"
 
-#define total 5 // total documents
+#define total 5 // total documents == static 5
 
 int main(int argc, char** argv){
     //create a new printer doc...
