@@ -8,7 +8,7 @@ CONSTANTS = {
     "ISO_FORMAT_REGEX": r'\d+-\d+-\d+\s+\d+:\d+:\d+', # e.g. '2019-12-20 6:56:00'
     "PY_DATETIME_FORMAT": "%Y-%m-%d %H:%M:%S", # e.g. '2019-12-20 6:56:00'
     "DEPENDENCY_REGEX": r'EdgeZoneRP.*;',
-    "EDGEZONERP": "EdgeZoneRP"
+    "EDGEZONERP": "EdgeZoneRP",
 }
 
 """
