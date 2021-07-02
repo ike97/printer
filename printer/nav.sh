@@ -1,7 +1,8 @@
 #!bin/bash
 
-# function recursively returns path of all files
-# $1 directory or subdirectory
+# not necessary anymore 
+# function recursively returns path of all files 
+# $1 directory or subdirectory 
 function get_files(){
     local curr_dir=$1 # save the param and make local
     local doc_items=$(ls $curr_dir) # list the files in dir
